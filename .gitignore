@@ -1,0 +1,11 @@
+*.pptx
+*.docx
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
